@@ -31,7 +31,7 @@ function Navbar({ menuOpen, setMenuOpen }) {
                 <div className="flex items-center h-14 justify-between max-sm:hidden 2xl:text-2xl text-[1.2rem] relative">
 
                     <a href="#home">
-                            <img src="../src/assets/logo.png" alt="logo" height="80px" width="80px" />
+                            <img src="/logo.png" alt="logo" height="80px" width="80px" />
                     </a>
 
                     <div className="flex justify-center items-center gap-8 mr-10 font-bold font-Roboto">

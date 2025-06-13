@@ -14,7 +14,7 @@ function Footer() {
                 </div>
 
                 <div className="flex flex-col items-center ">
-                    <img src="src/assets/logoWhite.png" alt="logo" className="h-[10rem] w-[10rem] object-cover max-sm:h-[8rem] max-sm:w-[8rem]" />
+                    <img src="/logoWhite.png" alt="logo" className="h-[10rem] w-[10rem] object-cover max-sm:h-[8rem] max-sm:w-[8rem]" />
 
                     <span className="text-xl font-serif italic text-white">Defines Art, Levon Bliz Photography</span>
                     <span className="text-sm text-white text-center">Anuradhapura • Colombo • Kurunagla</span>

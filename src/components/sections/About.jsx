@@ -14,7 +14,7 @@ function About() {
 
                        <div className="flex flex-col max-sm: items-center mt-8">
                             <img className=" h-80 w-100 object-cover rounded-[8px] max-sm:h-50 max-sm:w-80 hover:scale-105 hover:shadow-xl transition-transform duration-300" src="https://images.pexels.com/photos/1071816/pexels-photo-1071816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image" />
-                            <img className="h-80 w-90 object-cover -mt-25 max-sm:h-60 max-sm:w-60 max-sm:-mt-15" src="src\assets\Signature.svg" alt="" />
+                            <img className="h-80 w-90 object-cover -mt-25 max-sm:h-60 max-sm:w-60 max-sm:-mt-15" src="\Signature.svg" alt="" />
                        </div>
 
                 </div>
