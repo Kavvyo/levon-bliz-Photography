@@ -57,6 +57,13 @@ src/
    npm run dev
    ```
 ---
+## 🚀 Live Demo
+
+You can try out the live version here:
+
+👉 [Live Demo](https://levon-bliz.vercel.app/)
+
+---
 
 ## 🎬 Demo
 
