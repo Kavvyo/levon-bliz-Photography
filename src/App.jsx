@@ -7,7 +7,7 @@ import Gallary from "./components/sections/Gallary";
 import About from "./components/sections/About";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
-import BackToTop from "./components/backtoTop";
+import BackToTop from "./components/BackToTop";
 
 
 function App() {
